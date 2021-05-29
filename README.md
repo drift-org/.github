@@ -1,0 +1,1 @@
+This Repo describes [organization-wide health files](https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/) (eg `CONTRIBUTING`, `SUPPORT`, `CODE_OF_CONDUCT`, `ISSUE_TEMPLATE`, or `PULL_REQUEST_TEMPLATE`).

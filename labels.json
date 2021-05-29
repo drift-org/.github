@@ -31,6 +31,7 @@
   },
   { "name": "status:ready-for-review", "color": "3E766D" },
   { "name": "status:needs-fix", "color": "B92482" },
+  { "name": "status:ready-for-merge", "color": "0E973D" },
   { "name": "status:ready-for-testing", "color": "00FF6E" },
   { "name": "type:accessibility", "color": "FA2AC6" },
   { "name": "type:automated-testing", "color": "FF00AA" },

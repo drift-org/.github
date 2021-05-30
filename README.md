@@ -1,5 +1,6 @@
 This Repo describes [organization-wide health files](https://github.blog/changelog/2019-02-21-organization-wide-community-health-files/) (eg `CONTRIBUTING`, `SUPPORT`, `CODE_OF_CONDUCT`, `ISSUE_TEMPLATE`, or `PULL_REQUEST_TEMPLATE`).
 
+We are also using this Repo for organization-wide tickets/issues.
 
 ## Labels
 All repos in the organization have the same labels for pull requests and issues. 
